@@ -1,0 +1,16 @@
+:root {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(10, 10, 56);
+    color: white;
+  
+  }
+  
+  .Formulario {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border: 0.2rem solid #9d870c;
+    border-radius: 1%;
+  
+  }
